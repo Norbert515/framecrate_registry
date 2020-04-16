@@ -1,0 +1,10 @@
+[
+  {
+    "widget_constructor": "Shimmer_1_1_1",
+    "name": "Shimmer",
+    "dependencies": [
+      "shimmer: 1.1.1"
+    ],
+    "file_path": "https://"
+  }
+]
