@@ -7,5 +7,12 @@
       "shimmer: 1.1.1"
     ],
     "file_path": "https://raw.githubusercontent.com/Norbert515/framecrate_registry/master/registry/shimmer_1-1-1.dart"
+  },
+  {
+    "widget_constructor": "Spinner()",
+    "name": "Spinner",
+    "file_name": "spinner_001.dart",
+    "dependencies": [],
+    "file_path": "https://gist.githubusercontent.com/slightfoot/a868a1d0fcd2d28b13d08284a0c8aed1/raw/479673e1b214ff05a75d30ce18b0c94fa0e8e446/spinner_001.dart"
   }
 ]
