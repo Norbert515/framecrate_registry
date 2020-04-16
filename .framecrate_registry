@@ -1,7 +1,8 @@
 [
   {
-    "widget_constructor": "Shimmer_1_1_1",
+    "widget_constructor": "Shimmer_1_1_1()",
     "name": "Shimmer",
+    "file_name": "shimmer_1-1-1.dart",
     "dependencies": [
       "shimmer: 1.1.1"
     ],
