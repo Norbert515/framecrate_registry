@@ -33,7 +33,8 @@
       "widget_constructor":"Test()",
       "name":"Test",
       "pub_name":"test",
-      "version":"1.1.1"
+      "version":"1.1.1",
+      "import": "test_import.dart"
     }
   ]
 }
