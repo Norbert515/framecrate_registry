@@ -30,11 +30,25 @@
   ],
   "hosted_package":[
     {
-      "widget_constructor":"Test()",
-      "name":"Test",
-      "pub_name":"test",
-      "version":"1.1.1",
-      "import": "test_import.dart"
+      "widget_constructor":"RatingBar(
+   initialRating: 3,
+   minRating: 1,
+   direction: Axis.horizontal,
+   allowHalfRating: true,
+   itemCount: 5,
+   itemPadding: EdgeInsets.symmetric(horizontal: 4.0),
+   itemBuilder: (context, _) => Icon(
+     Icons.star,
+     color: Colors.amber,
+   ),
+   onRatingUpdate: (rating) {
+     print(rating);
+   },
+);",
+      "name":"Rating Bar",
+      "pub_name":"  flutter_rating_bar",
+      "version":"3.0.1+1",
+      "import": "package:flutter_rating_bar/flutter_rating_bar.dart"
     }
   ]
 }
